@@ -42,7 +42,7 @@ const iconLogos = [
 ];
 
   return (
-    <div
+    <div id="About"
       className="flex flex-wrap w-full min-h-screen items-center justify-center bg-gradient-to-b from-slate-950 to-slate-900 text-white"
       >
       <div data-aos="fade-up" data-aos-duration="1000">

@@ -19,8 +19,9 @@ const Footer = () => {
   };
 
   return (
-    <div className="w-full min-h-screen bg-gradient-to-b from-slate-900 to-slate-950 text-white flex items-center justify-center px-6 py-16">
-      <div className="max-w-5xl w-full grid md:grid-cols-2 gap-12 items-center">
+    <div id="Contact"
+    className="w-full min-h-screen bg-gradient-to-b from-slate-900 to-slate-950 text-white flex items-center justify-center px-6 py-16">
+      <div className="max-w-5xl w-full grid md:grid-cols-2 gap-12 items-center ">
         {/* Image */}
         <div className="flex justify-center">
           <div data-aos="fade-right">
