@@ -32,6 +32,7 @@ const Homepage = () => {
             <Image
               src={myface}
               alt="Profile Picture"
+              priority
               className="border-2 border-white/20 w-72 h-72 lg:w-80 lg:h-80 rounded-full object-cover object-bottom"
             />
           </div>
